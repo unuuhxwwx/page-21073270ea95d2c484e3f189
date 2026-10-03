@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e615aa857076a1d24eedc297",
+  "owner": "unuuhxwwx",
+  "repo": "page-21073270ea95d2c484e3f189",
+  "title": "柯洛斯(CrossWall)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "21073270ea95d2c484e3f189",
+      "a": "柯洛斯(CrossWall)",
+      "b": "",
+      "entity": "柯洛斯(CrossWall)",
+      "brand": "柯洛斯(CrossWall)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "dfcfc6aa2d9d48769f77040bb744944f18066adfcdad457eaaa430b3f9237da4",
+      "content": {
+        "keyword1": "柯洛斯(CrossWall)",
+        "keyword2": "",
+        "primary_entity": "柯洛斯(CrossWall)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "柯洛斯(CrossWall)提供高速稳定的VPN梯子与网络加速服务，支持机场订阅一键导入多端客户端，官方下载安全可靠，适用于游戏加速、跨境办公与流媒体解锁。",
+          "AI_DESCRIPTION": "柯洛斯(CrossWall)提供高速稳定的VPN梯子与网络加速服务，支持机场订阅一键导入多端客户端，官方下载安全可靠，适用于游戏加速、跨境办公与流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background:#0a192f;color:#ccd6f6;line-height:1.65;font-size:16px;overflow-x:hidden}.container{width:100%;max-width:960px;margin:0 auto;padding:12px 16px}header{background:#020c1b;padding:10px 0;border-bottom:1px solid #64ffda}nav{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center}nav a{color:#64ffda;text-decoration:none;font-size:15px;padding:4px 0}h1{font-size:1.75rem;color:#64ffda;text-align:center;margin:24px 0 16px;line-height:1.3}h2{font-size:1.35rem;color:#00e5ff;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #112240}h3{font-size:1.1rem;color:#64ffda;margin:16px 0 8px}p{margin:0 0 12px}.cards{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.card{background:#112240;border:1px solid #1e3a5f;border-radius:6px;padding:16px;flex:1 1 260px;min-width:240px}.featured{border-color:#64ffda;background:#0d2137}.price{font-size:1.4rem;font-weight:700;color:#64ffda;margin:8px 0}ul{padding-left:20px;margin:8px 0 12px}li{margin-bottom:4px}a{color:#00e5ff}details{background:#112240;border-radius:6px;margin:10px 0;padding:10px 14px;border:1px solid #1e3a5f}summary{font-weight:600;color:#64ffda;padding:4px 0}details p{margin:8px 0 0;font-size:15px}footer{background:#020c1b;margin-top:40px;padding:20px 0;font-size:14px;text-align:center;border-top:1px solid #112240}footer a{color:#64ffda;margin:0 8px}aside{background:#112240;padding:16px;border-radius:6px;margin:24px 0;border-left:4px solid #64ffda}@media(max-width:600px){h1{font-size:1.45rem}nav{font-size:14px}.card{flex:1 1 100%}}</style><header><div class=\"container\"><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></div></header><main><div class=\"container\"><h1>柯洛斯(CrossWall) 官方网站</h1><p>柯洛斯(CrossWall) 专注高速VPN梯子与机场订阅服务，提供多端客户端官方下载，助力网络加速、流媒体解锁与稳定跨境连接。</p><section id=\"intro\"><h2>品牌简介</h2><p>柯洛斯(CrossWall) 是面向个人与团队的专业网络加速品牌，以自建优质线路和简洁易用的机场订阅为核心，帮助用户安全访问全球互联网资源。我们坚持官方直营，持续优化节点质量与客户端兼容性，让梯子使用更省心。</p><p>无论是日常跨境办公、学术资料检索，还是高清流媒体与在线游戏，柯洛斯(CrossWall) 都提供可落地的加速方案。用户完成订阅后即可在主流客户端中一键导入，快速获得可用节点。</p></section><section id=\"plans\"><h2>套餐方案</h2><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#download\">前往订阅</a></p></article><article class=\"card featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#download\">前往订阅</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#download\">前往订阅</a></p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境远程办公</h3><p>连接海外协作平台、云文档与会议工具时保持稳定链路，减少卡顿与中断，适合经常需要访问国际业务系统的用户。</p><h3>流媒体娱乐</h3><p>旗舰及以上套餐注重原生解锁能力，便于观看常见国际流媒体内容，日常追剧与音乐服务更顺畅。</p><h3>游戏加速</h3><p>通过 IPLC 专线节点降低部分游戏的跨区延迟，适合对连接稳定性有要求的玩家，优先选择延迟更低的专线。</p><h3>学习与资料访问</h3><p>便于查阅国际公开资料、课程平台与开发文档，把网络加速用在实际学习与工作效率提升上。</p></section><section id=\"clients\"><h2>客户端选择</h2><p>柯洛斯(CrossWall) 强调客户端选择体验。完成机场订阅后，将订阅链接导入对应客户端即可自动拉取节点。请根据设备选择官方推荐方式，避免来路不明的安装包。</p><div class=\"cards\"><article class=\"card\"><h3>Windows 客户端</h3><p>推荐 Clash 系或 v2rayN 等常见工具，导入订阅后即可选择节点连接，适合桌面办公与游戏加速。</p><p><a href=\"#download\">Windows 官方下载</a></p></article><article class=\"card\"><h3>macOS 客户端</h3><p>可使用 Clash Verge 或其他兼容订阅的客户端，系统级代理设置简单，适合设计与开发人群。</p><p><a href=\"#download\">macOS 官方下载</a></p></article><article class=\"card\"><h3>Android 客户端</h3><p>支持常见 Android 代理应用导入机场订阅，移动网络下也能快速切换节点。</p><p><a href=\"#download\">Android 官方下载</a></p></article><article class=\"card\"><h3>iOS 客户端</h3><p>可通过兼容 Shadowrocket、Stash 等应用导入订阅。请从正规渠道获取客户端后再填入柯洛斯订阅地址。</p><p><a href=\"#download\">iOS 使用说明</a></p></article><article class=\"card\"><h3>通用订阅配置</h3><p>提供标准订阅链接，兼容 Clash Meta、Quantumult X、Surge 等，方便进阶用户自定义分流规则。</p><p><a href=\"#download\">获取订阅说明</a></p></article></div></section><section id=\"guide\"><h2>操作说明</h2><h3>选择套餐并获取订阅</h3><p>根据流量与设备数量选择基础版、旗舰版或团队版。支付完成后在用户中心复制机场订阅链接，妥善保存勿公开传播。</p><h3>下载并安装客户端</h3><p>进入本页客户端选择与官方下载区域，按系统获取对应工具。安装后不要开启来源不明的插件，以免影响连接安全。</p><h3>导入机场订阅</h3><p>打开客户端的订阅或配置页面，粘贴柯洛斯(CrossWall) 提供的链接并更新。成功后将出现节点列表，可按延迟或地区筛选。</p><h3>连接节点开始加速</h3><p>日常浏览可选普通线路，游戏与实时通话优先 IPLC 专线。连接成功后即可使用网络加速功能，必要时在客户端内切换节点。</p></section><section id=\"nodes\"><h2>节点与性能说明</h2><p>柯洛斯(CrossWall) 持续维护覆盖亚洲、北美与欧洲的线路资源，包含 BGP 普通节点与 IPLC 专线。我们将重点放在可用性与延迟表现，而不是堆砌无法核验的夸张数字。高峰时段仍建议优先使用专线节点以获得更稳的加速体验。</p><p>流量按套餐额度精确计量，当月用尽后会降速而非立即中断。流媒体解锁以旗舰版与团队版更完整，基础版适合轻度使用。</p></section><section id=\"download\"><h2>官方下载</h2><p>请只通过柯洛斯(CrossWall) 官方网站获取客户端与订阅说明，降低安装被篡改的风险。Windows、macOS、Android 提供常见安装包指引，iOS 用户使用兼容客户端导入订阅即可。下载前请核对页面来源为本站。</p><p><a href=\"#clients\">返回客户端选择</a> · <a href=\"#plans\">查看套餐</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>柯洛斯(CrossWall) 是什么？和普通加速器有何不同？</summary><p>柯洛斯(CrossWall) 是提供机场订阅的网络加速服务，用户将订阅导入自己的客户端后选择节点连接。相比单一 App 加速器，订阅方式更灵活，也便于在 Windows、手机与 macOS 之间同步使用。</p></details><details><summary>如何获取机场订阅并导入客户端？</summary><p>购买套餐后在用户中心复制订阅链接，打开已安装的 Clash、Shadowrocket 等客户端，添加订阅并更新节点。导入成功即可看到线路列表并一键连接。</p></details><details><summary>官方客户端应该从哪里下载？</summary><p>请从本页「客户端选择」与「官方下载」获取指引。不要使用来路不明的第三方打包文件。iOS 需使用兼容应用后再填入订阅地址。</p></details><details><summary>三个套餐怎么选？流量不够怎么办？</summary><p>轻度使用选基础版，需要流媒体全解锁和游戏专线选旗舰版，多设备或团队协作选团队版。流量用尽当月会降速，可升级套餐或等待次月重置。</p></details><details><summary>是否支持多设备同时在线？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。同一订阅在限额内可同时连接，超出后可能出现不稳定，建议按实际设备数选择。</p></details><details><summary>节点连不上或流媒体无法解锁时怎么处理？</summary><p>先更新订阅、更换节点或切换网络后再试。旗舰版与团队版对原生解锁支持更完整。若仍异常，可通过工单说明设备、客户端名称与错误现象以便排查。</p></details></section><aside><h2>公告</h2><p>广告位：推荐优先体验旗舰版，获取 IPLC 游戏加速与更完整的流媒体解锁。新用户请通过本站套餐入口订阅，以确保机场订阅来自柯洛斯(CrossWall) 官方渠道。</p></aside></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><p>© 2024 柯洛斯(CrossWall) 官方网站</p><p>友情链接：<a href=\"#\">加速器导航</a><a href=\"#\">客户端资源</a><a href=\"#\">网络工具</a></p><p><a href=\"#\">网站地图</a></p></div></footer>",
+          "hash": "1cd91034368c4239793b712fdc1c87896d9c8357cd76fd6e0b1df951ce20c333",
+          "seo": {
+            "title": "柯洛斯(CrossWall)官网 - VPN梯子网络加速与客户端官方下载",
+            "keywords": "柯洛斯,CrossWall,柯洛斯VPN,CrossWall机场,VPN梯子,网络加速器,机场订阅,客户端下载,官网下载,IPLC加速,流媒体解锁",
+            "description": "柯洛斯(CrossWall)提供高速稳定的VPN梯子与网络加速服务，支持机场订阅一键导入多端客户端，官方下载安全可靠，适用于游戏加速、跨境办公与流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jyond.cn",
+    "host": "p-d27bef7810.jyond.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jyond.cn",
+      "url": "https://jyond.cn/",
+      "label": "HashCloud",
+      "apex": "jyond.cn",
+      "kind": null,
+      "identity": "vcenct/page-cfd61e79d6a9ad859286052e"
+    },
+    {
+      "host": "d1-pc.com",
+      "url": "https://d1-pc.com/",
+      "label": "柯洛斯(CrossWall)",
+      "apex": "d1-pc.com",
+      "kind": null,
+      "identity": "cevqvv/page-52cd85d7fa32bf8f19555439"
+    },
+    {
+      "host": "sjcxiu.com",
+      "url": "https://sjcxiu.com/",
+      "label": "柯洛斯(CrossWall)",
+      "apex": "sjcxiu.com",
+      "kind": null,
+      "identity": "xerth4/page-b67f226267a1f095b507277f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b412fb353271609a116548d043fae2b676265b478075168b6143073ff607c116",
+    "sitemap.xml": "68d2f157814545a35b5ac8a083d9a5f431b2407993354218d2f61c5a98ac1c3a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a032a9ef468050ed3203e848861ea96e531611e1fd937d3387bd6b008eaf84c",
+    "robots.txt": "3dcd89f81dc7bb7ff32769980235f9166184202399e6c7d649c532881679dd53",
+    "690518213fde71a76f12004d2e60e41b.txt": "96972d4569d7521a8da2481ec71ccc1621bbea658fc624844090eb5bf0dcf9c3"
+  },
+  "revision": "96ab10acaab5dded713c0e9d98209444c8a94549ac6bd356d14e4132e347754a"
+}
